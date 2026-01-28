@@ -28,7 +28,7 @@ Tecnologias Utilizadas:
 
 - Iframes
   
-🌐 Link do projeto: https://barbaradalto.github.io/ProjetoSocial/
+🌐 Link do projeto: https://barbaradalto.github.io/Projeto-Redes-Sociais/
 
 📷 Preview
 <img width="1112" height="948" alt="Miniaturasocial" src="https://github.com/user-attachments/assets/5d1e3c3a-3d70-43e9-8012-95939acf150e" />
